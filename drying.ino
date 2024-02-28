@@ -1,6 +1,6 @@
 #include <Stepper.h>
 
-const int proximitySensorPin = 7;
+const int proximitySensorPin = 5;
 const int LED_PIN = LED_BUILTIN; 
 const int stepsPerRevolution = 200;
 
@@ -32,7 +32,7 @@ void loop() {
     Serial.println("Rotating Counterclockwise");
     myStepper.step(-stepsPerRevolution);
     delay(500);
-    
+
   }
 
   delay(200);
