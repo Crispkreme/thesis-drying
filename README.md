@@ -10,3 +10,9 @@ Fish drying is a widely used preservation method in coastal regions, but it is o
 
 - Develop a smart fish dryer with a fuzzy logic-based rain detection system.
 - Assess the effectiveness of the fuzzy logic control system design.
+
+## Significance of the Study:
+- **Small-scale Fisheries (SSF):** This research can benefit the SSF community, where over 90% of people rely on fishing for their livelihoods. Specifically, it addresses issues in the dried fish industry, offering solutions to improve socio-economic conditions and ecological sustainability.
+- **Dried Fish Owners/Vendors:** The study provides dried fish owners and vendors with insights into the functionality and benefits of the rain detector system, enhancing their ability to manage their operations effectively.
+- **Researchers:** This study contributes to the knowledge base by exploring the design and implementation of a fuzzy mitigation system with rain detection for fish drying, enriching researchers' understanding in this field.
+- **Future Researchers:** The findings of this research serve as a valuable resource for future researchers interested in developing detection systems, offering them guidance and foundational knowledge for their studies.
